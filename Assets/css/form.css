@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: auto;
+}
+
+label {
+    margin-top: 10px;
+}
+
+textarea {
+    height: 100px;
+    resize: none;
+}
+
+button {
+    margin-top: 10px;
+}

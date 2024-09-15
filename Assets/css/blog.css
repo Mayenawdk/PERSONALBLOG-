@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#postsContainer {
+    width: 60%;
+    margin: auto;
+}
+
+.post {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+.dark-mode {
+    background-color: black;
+    color: white;
+}
